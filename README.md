@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 ## Inference
 To run inference on example images in `data/images`:
 ```bash
-$ python detect.py --source data/images --weights best_potholes.pt --img 416 --conf 0.5
+$ python detect.py --source data/images --weights best_potholes.pt --conf 0.5 --img 416
 
 Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.5, device='', exist_ok=False, img_size=640, iou_thres=0.45, name='exp', project='runs/detect', save_conf=False, save_txt=False, source='data/images', update=False, view_img=False, weights=['best_potholes.pt'])
 YOLOv5 🚀 423b3eb torch 1.8.1+cu101 CPU
