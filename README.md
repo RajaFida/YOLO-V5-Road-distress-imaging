@@ -18,6 +18,10 @@ To run inference on example images in `data/images`:
 ```bash
 $ python detect.py --source data/images --weights last_cracks.pt --conf 0.5 --img 416
 ```
+
+
+# Results when running
+
 ```bash
 /content/YOLO-V5-Road-distress-imaging
 Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.5, device='', exist_ok=False, img_size=640, iou_thres=0.45, name='exp', project='runs/detect', save_conf=False, save_txt=False, source='data/images', update=False, view_img=False, weights=['last_cracks.pt'])
