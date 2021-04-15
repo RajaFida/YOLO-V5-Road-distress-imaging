@@ -8,7 +8,7 @@ $ conda install -c conda-forge pycocotools
 $ pip install -r requirements.txt
 ```
 
-## Inference
+## Inference for Potholes
 To run inference on example images in `data/images`:
 ```bash
 $ python detect.py --source data/images --weights best_potholes.pt --conf 0.5 --img 416
@@ -22,4 +22,9 @@ image 1/2 /content/YOLO-V5-Road-distress-imaging/data/images/2897--319-_jpg.rf.e
 image 2/2 /content/YOLO-V5-Road-distress-imaging/data/images/2897--339-_jpg.rf.2a55ee2a09496c777804ff33e41770b7.jpg: 640x640 4 0s, Done. (0.675s)
 Results saved to runs/detect/exp
 Done. (1.653s)
+```
+## Inference for Cracks
+To run inference on example images in `data/images`:
+```bash
+$ python detect.py --source data/images --weights best_cracks.pt --conf 0.5 --img 416
 ```
