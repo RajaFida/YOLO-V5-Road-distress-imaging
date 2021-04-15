@@ -4,6 +4,7 @@ this repository represents the usage of modern computervision **YOLO V5** in aut
 ## Requirements
 Python 3.8 or later along with `torch>=1.7` and the requirements given in [requirements.txt](https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/requirements.txt)  To install run:
 ```bash
+$ conda install -c conda-forge pycocotools
 $ pip install -r requirements.txt
 ```
 
