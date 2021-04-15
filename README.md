@@ -26,5 +26,5 @@ Done. (1.653s)
 ## Inference for Cracks
 To run inference on example images in `data/images`:
 ```bash
-$ python detect.py --source data/images --weights best_cracks.pt --conf 0.5 --img 416
+$ python detect.py --source data/images --weights last_cracks.pt --conf 0.5 --img 416
 ```
