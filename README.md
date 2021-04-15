@@ -20,7 +20,7 @@ $ python detect.py --source data/images --weights last_cracks.pt --conf 0.5 --im
 ```
 
 
-# Results when running
+### Results when running
 
 ```bash
 /content/YOLO-V5-Road-distress-imaging
