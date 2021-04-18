@@ -18,7 +18,11 @@ To run inference on example images in `data/images`:
 ```bash
 $ python detect.py --source data/images --weights last_cracks.pt --conf 0.5 --img 416
 ```
-
+## Inference for Ravelling
+To run inference on example images in `data/images`:
+```bash
+$ python detect.py --source data/images --weights last_ravelling.pt --conf 0.5 --img 416
+```
 
 ### Results when running
 
