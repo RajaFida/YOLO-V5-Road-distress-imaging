@@ -60,4 +60,7 @@ the trained YOLOv5 may be run in the following verified environment (with all de
 - **Google Colab** notebook with free GPU: <a href="https://colab.research.google.com/github/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/Test_YoloV5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ## Results on some unseen data
-some videos are saved in the directory `data/unseen data results`, and can be downloaded for the purpose of visualisation 
+some videos are saved in the directory `data/unseen data results`, and can be downloaded for the purpose of visualisation. Below some pridicted images are provided.
+<img width="800" src="https://user-images.githubusercontent.com/26833433/98699617-a1595a00-2377-11eb-8145-fc674eb9b1a7.jpg"></a>
+&nbsp
+
