@@ -69,4 +69,4 @@ some videos are saved in the directory `data/unseen data results`, and can be do
 <img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/cracks1.JPG">  <img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/Cracks2.JPG">  </a>
 
 
-<img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/ravellinng1.JPG">  <img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/2891--96-_jpg.rf.665e7021b1c86dc28029f6b7ebe9fc83.jpg">  </a>
+<img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/ravellinng1.JPG">  <img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/ravelling2.JPG">  </a>
