@@ -61,5 +61,6 @@ the trained YOLOv5 may be run in the following verified environment (with all de
 
 ## Results on some unseen data
 some videos are saved in the directory `data/unseen data results`, and can be downloaded for the purpose of visualisation. Below some pridicted images are provided.
+
 <img width="200" src="https://github.com/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/data/unseen%20data%20results/2891--107-_jpg.rf.56b4ca4a3ce80cd57ec363512a93b4b6.jpg"></a>
 
